@@ -1,2 +1,2 @@
 # Mcontroller
-A device management 
+A device management connected with chat gpt

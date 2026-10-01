@@ -1,0 +1,1 @@
+{"product":"LogAgent","version":"1.3.0","modules":["Pull Collector","Collector Centre","Munki Recipe Editor","Playbook Manager","ChatGPT Development"],"development_features":["chat","project files","diff","apply","tests","history"],"api":"OpenAI Responses API"}
